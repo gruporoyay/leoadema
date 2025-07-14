@@ -120,19 +120,7 @@ footer {
   font-size: 0.8em;
   color: #777;
 }
-@media (max-width: 768px) {
-  .footer {
-    flex-direction: column;
-    align-items: flex-start;
-    text-align: left;
-    padding: 20px;
-  }
 
-  .footer-col {
-    width: 100%;
-    margin-bottom: 20px;
-  }
-}
 
 
 
